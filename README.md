@@ -3,7 +3,7 @@
 主に Rust や Go を書いています. 
 I mainly use Rust and Go.
 
-- [謎コンパイラ ompiler](https://github.com/Hmiya6/compiler-v1) (Rust)
+- [謎コンパイラ simple compiler](https://github.com/Hmiya6/compiler-v1) (Rust)
 - [簡単な自作ブラウザ simple browser](https://github.com/Hmiya6/aktis) (Rust)
 - [note.hmiya.dev](https://note.hmiya.dev)
 
