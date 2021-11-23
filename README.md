@@ -1,11 +1,10 @@
 # Hmiya6
 
-主に Rust や Go を書いています. 
-I mainly use Rust and Go.
+使用言語: Rust, Python, Go, C++
 
-- [謎コンパイラ simple compiler](https://github.com/Hmiya6/compiler-v1) (Rust)
-- [簡単な自作ブラウザ simple browser](https://github.com/Hmiya6/aktis) (Rust)
-- [note.hmiya.dev](https://note.hmiya.dev)
+- [自作 OS (1) (MikanOS の Rust 移植)](https://github.com/Hmiya6/potaOS) (Rust)
+- [自作 OS (2) (MikanOS の Rust 移植)](https://github.com/Hmiya6/toyos) (Rust)
+- [簡単な自作ブラウザ](https://github.com/Hmiya6/aktis) (Rust)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hmiya6&theme=default)
 
