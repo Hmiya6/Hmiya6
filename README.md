@@ -6,7 +6,6 @@
 - [自作 OS (2) (MikanOS の Rust 移植)](https://github.com/Hmiya6/toyos) (Rust)
 - [簡単な自作ブラウザ](https://github.com/Hmiya6/aktis) (Rust)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hmiya6&theme=default)
 
 <!--
 **Hmiya6/Hmiya6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
